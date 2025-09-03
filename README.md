@@ -17,11 +17,12 @@ This project was built as part of the **Aganitha Web Developer Take-Home Exercis
 ## 🛠️ Tech Stack
 - **React.js** (Frontend)  
 - **Open Library API** (Book data source)  
-- **CSS** (Styling)  
+- **CSS** / **Tailwind CSS** (Styling)  
 
 ---
 
 ## ⚙️ Setup & Run Locally
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/grahul26/book-finder.git
